@@ -1,1 +1,1 @@
-My Project Website is live at: https://shuklakajal17.github.io/Project-Website/
+My Project Website is live at: file:///C:/Users/DEL/Desktop/Project/index.html
